@@ -8,8 +8,10 @@ Broadly speaking my interests are at the intersection of scientific computing, s
 
 As part of my work studying convection in porous media, I have developed the Python package [LUCiFEx](https://github.com/george-poole/LUCiFEx) (*Linearized Underground Convection in FEniCSx*), which extends the open-source [FEniCS](https://fenicsproject.org) finite element method code to formulate time-dependent PDEs by means of finite differences in time.
 
-| ![alt](./media/me.jpeg) | ![alt](./media/me.jpeg) | ![alt](./media/me.jpeg) |
-|-|-|-|
+<!-- | ![alt](./media/me.jpeg) | ![alt](./media/me.jpeg) | ![alt](./media/me.jpeg) |
+|-|-|-| -->
+
+![alt](./media/sample.png)
 
 The majority of my scientific computing uses the Python ecosystem, but I also enjoy dabbling in the Julia, Rust, OCaml and Haskell programming languages.
 
