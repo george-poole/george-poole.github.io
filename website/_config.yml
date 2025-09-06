@@ -1,0 +1,17 @@
+logo: ./media/me.jpeg
+
+execute:
+  execute_notebooks: force
+
+latex:
+  latex_documents:
+    targetname: george_poole.tex
+
+# repository:
+#   url: https://george-poole.github.io 
+#   path_to_book: docs 
+#   branch: main 
+
+# html:
+#   use_issues_button: false
+#   use_repository_button: true
