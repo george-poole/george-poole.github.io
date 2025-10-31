@@ -9,4 +9,4 @@ I am either currently or have previously supervised the following courses in the
 * Statistical Physics
     * notes by [Prof. Tong’s](https://www.damtp.cam.ac.uk/user/tong/statphys.html), [Dr. Sperhake](https://www.damtp.cam.ac.uk/user/us248/Lectures/lectures.html), [Prof. Horgan](https://www.damtp.cam.ac.uk/user/rrh/), and [Dexter Chua](http://dec41.user.srcf.net/notes/II_L/statistical_physics.pdf)
 
-If you're stuck on a problem from your example sheet, have you tried [this](./media/stuck_on_problem.pdf)?
+If you're stuck on a problem from your example sheet, have you tried [this](./media/stuck_on_a_problem.pdf)?
