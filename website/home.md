@@ -2,7 +2,7 @@
 
 grp39@cam.ac.uk 
 
-***Currently seeking postdoctoral employment in quantitative research and/or software development***
+***Currently seeking postdoctoral employment in quantitative research and/or software development.***
 
 Broadly speaking my interests are at the intersection of applied mathematics, scientific computing and software development. My PhD research models advective-diffusive-reactive flows in porous media, motivated by the interactions between brine and carbon dioxide after geological sequestration in the broader context of carbon capture and sequestration (CCS). Coupling fluid flow and transport processes is an inherently nonlinear problem which can be tackled by direct numerical simulation (DNS), and in some cases simplified analytical models.
 
