@@ -6,7 +6,7 @@ grp39@cam.ac.uk
 
 Broadly speaking my interests are at the intersection of applied mathematics, scientific computing and software development. My PhD research models advective-diffusive-reactive flows in porous media, motivated by the interactions between brine and carbon dioxide after geological sequestration in the broader context of carbon capture and sequestration (CCS). Coupling fluid flow and transport processes is an inherently nonlinear problem which can be tackled by direct numerical simulation (DNS), and in some cases simplified analytical models.
 
-As part of my work studying convection in porous media, I have developed the Python package [LUCiFEx](https://github.com/george-poole/LUCiFEx) (*Linearized Underground Convection in FEniCSx*), which extends the open-source [FEniCS](https://fenicsproject.org) finite element method code to formulate time-dependent PDEs by means of finite differences in time.
+As part of my work studying convection in porous media, I have developed the Python packages [LUCiFEx](https://github.com/george-poole/LUCiFEx) (*&nbsp;**L**inearized **C**onvection **i**n **FE**niCS**x**&nbsp;*) which extends the open-source [FEniCS](https://fenicsproject.org) finite element method code to formulate time-dependent PDEs by means of finite differences in time, and [CRoCoDiL](https://github.com/george-poole/CRoCoDiL) (*&nbsp;**C**onvection-**R**eaction **o**f **C**arb**o**n **D**iodixe **i**n **L**UCiFEx&nbsp;*) to run direct numerical simulation of porous convection in a unified framework.
 
 The majority of my scientific computing uses the Python ecosystem, but I also enjoy dabbling in the Julia, Rust, OCaml and Haskell programming languages.
 
