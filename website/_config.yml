@@ -1,4 +1,4 @@
-logo: ./media/photo.jpeg
+logo: ./media/headshots/default.jpg
 
 execute:
   execute_notebooks: force
@@ -6,3 +6,8 @@ execute:
 latex:
   latex_documents:
     targetname: george_poole.tex
+
+sphinx: 
+  config: 
+    html_theme_options: 
+      use_download_button: false
