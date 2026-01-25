@@ -10,6 +10,8 @@ As part of my work studying convection in porous media, I have developed the Pyt
 
 The majority of my scientific computing experience is with Python and its associated ecosystem of numerical packages, but I am also experienced with Fortran, and to a lesser extent C, for raw numerical performance. Other programming languages that I enjoy reading about and dabbling in include: Rust, Haskell, OCaml and Julia.
 
+Human languages that I speak are English (native) and French (fluent). 
+
 <!-- | ![alt](./media/me.jpeg) | ![alt](./media/me.jpeg) | ![alt](./media/me.jpeg) |
 |-|-|-| -->
 
