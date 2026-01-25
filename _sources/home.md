@@ -18,10 +18,6 @@ Human languages that I speak are English (native) and French (fluent).
 ![alt](./media/fluids/flow.png)
 
 
-## Publications
-
-⏳🔄
-
 ## CV
 
 2021 – Present: PhD Fluid Dynamics, University of Cambridge\
