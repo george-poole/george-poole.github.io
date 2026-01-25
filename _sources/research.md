@@ -1,4 +1,4 @@
-# Research problems
+# Research
 
 The following paragraphs serve as a brief introduction to some interesting, hopefully novel, research problems in convection and pattern formation that I am either currently investivating or interested in studying more in the future. For any queries, comments or interest in collaboration do not hesitate to email grp39@cam.ac.uk.
 
