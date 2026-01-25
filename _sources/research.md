@@ -12,8 +12,8 @@ $$
 &c(\textbf{x}, t): \Omega\times[0, \infty) \to \mathbb{R}, \\
 &\textbf{u}(\textbf{x}, t): \Omega\times[0, \infty) \to \mathbb{R}^2, \\
 &p(\textbf{x}, t): \Omega\times[0, \infty) \to \mathbb{R} \\
-&\text{where~} \Omega=[0,L]\times[0, 1] \\ 
-&\text{and~} \textbf{x}=(x,y)\\ 
+&\text{where}~\Omega=[0,L]\times[0, 1] \\ 
+&\text{and}~\textbf{x}=(x,y)\\ 
 &\text{such that} \\
 &\mathbb{IBVP}
 \begin{cases}
@@ -57,8 +57,8 @@ $$
 &c(\textbf{x}, t): \Omega\times[0, \infty) \to \mathbb{R}, \\
 &\textbf{u}(\textbf{x}, t): \Omega\times[0, \infty) \to \mathbb{R}^2, \\
 &p(\textbf{x}, t): \Omega\times[0, \infty) \to \mathbb{R} \\
-&\text{where~} \Omega=[0,1]\times[0, 1] \\ 
-&\text{and~} \textbf{x}=(x,y)\\ 
+&\text{where}~\Omega=[0,1]\times[0, 1] \\ 
+&\text{and}~\textbf{x}=(x,y)\\ 
 &\text{such that} \\
 &\mathbb{IBVP}
 \begin{cases}
