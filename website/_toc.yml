@@ -1,6 +1,9 @@
 format: jb-book
 root: home
+
 chapters:
-- file: code
-- file: talks
-- file: teaching
+  - file: code
+  - file: publications
+  - file: teaching
+  - file: research
+  - file: miscellaneous

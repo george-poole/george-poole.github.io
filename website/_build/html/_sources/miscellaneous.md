@@ -1,0 +1,10 @@
+# Miscellaneous
+
+## Blog
+🖊️⏳🔄
+
+## Presentations
+🗣️⏳🔄
+
+## Projects
+🔧⏳🔄
