@@ -12,4 +12,4 @@ I am passionate about writing robust yet intuitive, user-friendly and extensible
 
 ## CaRiBU
 
-*&nbsp;**C**onvection and **R**eaction in a **B**ox **U**nderground&nbsp;*. A Fortran code, with Python bindings, optimised for solving the porous convection equations in a rectangle.
+*&nbsp;**C**onvection **a**nd **R**eaction **i**n a **B**ox **U**nderground&nbsp;*. A Fortran code, with Python bindings, optimised for solving the porous convection equations in a rectangle.
