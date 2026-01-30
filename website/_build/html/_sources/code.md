@@ -1,6 +1,6 @@
 # Code
 
-I am passionate about writing robust yet intuitive, user-friendly and extensible code to solve scientific and mathematical problems. My public repositories can be found on [my GitHub page](https://github.com/george-poole/), as well being mirrored on [my Codeberg page](https://codeberg.com/george-poole/).
+I am passionate about writing robust yet intuitive, user-friendly and extensible code to solve scientific and mathematical problems. My public repositories are hosted on [my GitHub page](https://github.com/george-poole/), as well being mirrored to [my Codeberg page](https://codeberg.org/george-poole/).
 
 ## [LUCiFEx](https://github.com/george-poole/LUCiFEx)
 
