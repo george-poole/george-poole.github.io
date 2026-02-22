@@ -15,4 +15,6 @@ If you're stuck on a problem from your example sheet in applied mathematics, thi
 
 If you need a refresher on notation and terminology, have a look at the [maths cheatsheet](./media/teaching/maths_survival_kit.pdf).
 
-## Supervisions
+## Scientific Computing 
+
+Curated tips and tricks for scientific computing can be found [here](...).
