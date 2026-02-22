@@ -1,6 +1,6 @@
 # Code
 
-I am passionate about writing robust yet intuitive, user-friendly and extensible code to solve scientific and mathematical problems. My public repositories are hosted on [my GitHub page](https://github.com/george-poole/), as well being mirrored to [my Codeberg page](https://codeberg.org/george-poole/). I am guided by the principles that research codes should be open-source, reproducible and freely-available available to the scientific community [^1] [^2]. 
+I am passionate about writing robust yet intuitive, user-friendly and extensible code to solve scientific and mathematical problems. My public repositories are hosted on [my GitHub page](https://github.com/george-poole/), as well being mirrored to [my Codeberg page](https://codeberg.org/george-poole/). I am guided by the principles that research codes should be open-source, reproducible and freely-available available to the scientific community [^1] [^2] [^3]. 
 
 
 ## [LUCiFEx](https://george-poole.github.io/LUCiFEx/index.html)
@@ -18,3 +18,4 @@ I am passionate about writing robust yet intuitive, user-friendly and extensible
 
 [^1]: [Goble, C. *Better Software, Better Research*](https://www.software.ac.uk/publication/better-software-better-research)
 [^2]: [Joyner, D. *Open Source Mathematical Software*](https://www.ams.org/notices/200710/tx071001279p.pdf)
+[^3]: [*Why should you care about reproducible code — and how to get started?*](https://www.software.ac.uk/blog/why-should-you-care-about-reproducible-code-and-how-get-started)
