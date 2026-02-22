@@ -19,4 +19,4 @@ If you need a refresher on notation and terminology, have a look at the [maths c
 
 One could be forgiven for graduating from the intensely examination-focussed Mathematical or Natural Sciences Tripos and not appreciating that scientific computing skills are much more valuable to real research than rote-learning derivations and solving rehearsed or artificial problems. To address this shortfall from the undergraduate curriculum I have curated various resources and notes of my own into [The Missing Tripos](...) [^1].
 
-[^1] Inspired by MIT's [Missing Semester](https://missing.csail.mit.edu).
+[^1]: Inspired by MIT's [Missing Semester](https://missing.csail.mit.edu).
