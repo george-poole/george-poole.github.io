@@ -1,8 +1,8 @@
 # Teaching
 
-I am either currently or have previously supervised the following courses in the Mathematical Tripos. Related resources for supervisees are collected below.
-
 ## Supervisions
+
+I am either currently or have previously supervised the following courses in the Mathematical Tripos. Related resources for supervisees are collected below.
 
 * Fluid Dynamics II
     * notes by [Prof. Hinch](http://www.damtp.cam.ac.uk/user/hinch/teaching/FluidsIInotes.pdf), [Prof. Proctor](http://www.damtp.cam.ac.uk/user/examples/D23Ld.pdf), 
