@@ -3,11 +3,13 @@ logo: ./media/headshots/default.jpg
 execute:
   execute_notebooks: force
 
-latex:
-  latex_documents:
-    targetname: george_poole.tex
-
 sphinx: 
   config: 
     html_theme_options: 
       use_download_button: false
+      home_page_in_toc: true
+
+
+latex:
+  latex_documents:
+    targetname: george_poole.tex

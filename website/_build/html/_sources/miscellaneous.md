@@ -3,7 +3,7 @@
 ## Blog
 🖊️⏳🔄
 
-## Presentations
+## Talks
 🗣️⏳🔄
 
 ## Projects

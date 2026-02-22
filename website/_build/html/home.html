@@ -57,8 +57,6 @@
     <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
-    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
-    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'home';</script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
@@ -174,11 +172,19 @@
  </script></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1 current active">
+                <a class="reference internal" href="#">
+                    George Poole
+                </a>
+            </li>
+        </ul>
         <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="code.html">Code</a></li>
 <li class="toctree-l1"><a class="reference internal" href="publications.html">Publications</a></li>
-<li class="toctree-l1"><a class="reference internal" href="teaching.html">Teaching</a></li>
 <li class="toctree-l1"><a class="reference internal" href="research.html">Research</a></li>
+<li class="toctree-l1"><a class="reference internal" href="teaching.html">Teaching</a></li>
 <li class="toctree-l1"><a class="reference internal" href="miscellaneous.html">Miscellaneous</a></li>
 </ul>
 
@@ -297,8 +303,8 @@ document.write(`
 <p><a class="reference external" href="mailto:grp39&#37;&#52;&#48;cam&#46;ac&#46;uk">grp39<span>&#64;</span>cam<span>&#46;</span>ac<span>&#46;</span>uk</a></p>
 <p><em><strong>Currently seeking postdoctoral employment in quantitative research and/or software development.</strong></em></p>
 <p>Broadly speaking my interests are at the intersection of applied mathematics, scientific computing and software development. My PhD research models advective-diffusive-reactive flows in porous media, motivated by the interactions between brine and carbon dioxide after geological sequestration in the broader context of carbon capture and sequestration (CCS). Coupling fluid flow and transport processes is an inherently nonlinear problem which can be tackled by direct numerical simulation (DNS), and in some cases simplified analytical models.</p>
-<p>As part of my work studying convection in porous media, I have developed the Python packages <a class="reference external" href="https://github.com/george-poole/LUCiFEx">LUCiFEx</a> (<em> <strong>L</strong>inearized <strong>C</strong>onvection <strong>i</strong>n <strong>FE</strong>niCS<strong>x</strong> </em>) which extends the open-source <a class="reference external" href="https://fenicsproject.org">FEniCS</a> finite element method code to formulate time-dependent PDEs by means of finite differences in time, and <a class="reference external" href="https://github.com/george-poole/CRoCoDiL">CRoCoDiL</a> (<em> <strong>C</strong>onvection-<strong>R</strong>eaction <strong>o</strong>f <strong>C</strong>arb<strong>o</strong>n <strong>D</strong>iodixe <strong>i</strong>n <strong>L</strong>UCiFEx </em>) to run direct numerical simulation of porous convection within a flexible, unified framework.</p>
-<p>The majority of my scientific computing experience is with Python and its associated ecosystem of numerical packages, but I am also experienced with Fortran, and to a lesser extent C, for raw numerical performance. Other programming languages that I enjoy reading about and dabbling in include: Rust, Haskell, OCaml and Julia.</p>
+<p>As part of my work studying convection in porous media, I have developed the Python packages <a class="reference external" href="https://github.com/george-poole/LUCiFEx">LUCiFEx</a> (<em> <strong>L</strong>inearized <strong>C</strong>onvection <strong>i</strong>n <strong>FE</strong>niCS<strong>x</strong> </em>) which extends the open-source <a class="reference external" href="https://fenicsproject.org">FEniCS</a> finite element method code to formulate time-dependent PDEs by means of finite differences in time, and <a class="reference external" href="https://github.com/george-poole/CRoCoDiL">CRoCoDiL</a> (<em> <strong>C</strong>onvection-<strong>R</strong>eaction <strong>o</strong>f <strong>C</strong>arb<strong>o</strong>n <strong>D</strong>iodixe <strong>i</strong>n <strong>L</strong>UCiFEx </em>) to run direct numerical simulations of porous convection within a flexible, unified framework.</p>
+<p>The majority of my scientific computing experience is with Python and its associated ecosystem of numerical packages, but I am also experienced with Fortran, and to a lesser extent C, for raw numerical performance. Other programming languages that I enjoy reading about and dabbling in include: Rust, Haskell, OCaml, Typescript and Julia. When not pretending to be practical in applied mathematics, I like dipping into functional programming, type theory and category theory.</p>
 <p>Human languages that I speak are English (native) and French (fluent).</p>
 <!-- | ![alt](./media/me.jpeg) | ![alt](./media/me.jpeg) | ![alt](./media/me.jpeg) |
 |-|-|-| -->
@@ -306,7 +312,7 @@ document.write(`
 <section id="cv">
 <h2>CV<a class="headerlink" href="#cv" title="Link to this heading">#</a></h2>
 <p>2021 – Present: PhD Fluid Dynamics, University of Cambridge<br />
-2020 – 2021: Software Internship / COVID-19 Pandemic<br />
+2020 – 2021: Scientific Software Development Internship<br />
 2016 – 2020: MSci Natural Sciences (Theoretical Physics), University of Cambridge</p>
 </section>
 <div class="toctree-wrapper compound">
