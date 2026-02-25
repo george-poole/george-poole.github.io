@@ -3,7 +3,6 @@ root: home
 
 chapters:
   - file: code
-  - file: publications
   - file: research
   - file: teaching
   - file: miscellaneous
