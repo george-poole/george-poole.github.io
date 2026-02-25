@@ -2,7 +2,7 @@
 
 ## Supervisions
 
-I am either currently or have previously supervised the following courses in the Mathematical Tripos. Related resources for supervisees are collected below.
+I am either currently or have previously supervised the following courses in the Mathematical Tripos. Related resources for supervisees are collected below. If you're stuck on a problem from your example sheet in applied mathematics, this [troubleshooting](./media/teaching/stuck_on_a_problem_applied.pdf) sheet may be helpful.
 
 * Fluid Dynamics II
     * notes by [Prof. Hinch](http://www.damtp.cam.ac.uk/user/hinch/teaching/FluidsIInotes.pdf), [Prof. Proctor](http://www.damtp.cam.ac.uk/user/examples/D23Ld.pdf), 
@@ -11,14 +11,9 @@ I am either currently or have previously supervised the following courses in the
 * Statistical Physics
     * notes by [Prof. Tong](https://www.damtp.cam.ac.uk/user/tong/statphys.html), [Dr. Sperhake](https://www.damtp.cam.ac.uk/user/us248/Lectures/lectures.html), [Prof. Horgan](https://www.damtp.cam.ac.uk/user/rrh/), and [Dexter Chua](http://dec41.user.srcf.net/notes/II_L/statistical_physics.pdf)
 
-If you're stuck on a problem from your example sheet in applied mathematics, this [troubleshooting](./media/teaching/stuck_on_a_problem_applied.pdf) sheet may be helpful.
 
 ## Scientific Computing 
 
-One could be forgiven for graduating from the intensely examination-focussed Mathematical or Natural Sciences Tripos and not appreciating that scientific computing skills are much more valuable to real research than rote-learning derivations and solving rehearsed or artificial problems. To address this shortfall from the undergraduate curriculum I actively curate various resources and examples of my own into [The Missing Tripos](...) [^1] - note that this is a continuously evolving work in progress!
+One could be forgiven for graduating from the intensely examination-focussed Mathematical or Natural Sciences Tripos and not appreciating that scientific computing skills are much more valuable to real research than rote-learning derivations and solving rehearsed or artificial problems. To address this shortfall from the undergraduate curriculum I actively curate various resources and examples of my own into [The Missing Tripos](https://github.com/george-poole/TheMissingTripos) [^1] - note that this is a continuously evolving work in progress!
 
 [^1]: Inspired by MIT's [Missing Semester](https://missing.csail.mit.edu).
-
-<!--## Cheatsheets
-
-If you need a refresher on mathematical notation and terminology, have a look at the [maths cheatsheet](./media/teaching/maths_survival_kit.pdf). I also have cheatsheets available for [UNIX]() and [LaTeX]().-->
