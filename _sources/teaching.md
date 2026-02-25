@@ -2,7 +2,7 @@
 
 ## Supervisions
 
-I am either currently or have previously supervised the following courses in the Mathematical Tripos. Related resources for supervisees are collected below.
+I am either currently or have previously supervised the following courses in the Mathematical Tripos. Related resources for supervisees are collected below. If you're stuck on a problem from your example sheet in applied mathematics, this [troubleshooting](./media/teaching/stuck_on_a_problem_applied.pdf) sheet may be helpful.
 
 * Fluid Dynamics II
     * notes by [Prof. Hinch](http://www.damtp.cam.ac.uk/user/hinch/teaching/FluidsIInotes.pdf), [Prof. Proctor](http://www.damtp.cam.ac.uk/user/examples/D23Ld.pdf), 
@@ -11,7 +11,6 @@ I am either currently or have previously supervised the following courses in the
 * Statistical Physics
     * notes by [Prof. Tong](https://www.damtp.cam.ac.uk/user/tong/statphys.html), [Dr. Sperhake](https://www.damtp.cam.ac.uk/user/us248/Lectures/lectures.html), [Prof. Horgan](https://www.damtp.cam.ac.uk/user/rrh/), and [Dexter Chua](http://dec41.user.srcf.net/notes/II_L/statistical_physics.pdf)
 
-If you're stuck on a problem from your example sheet in applied mathematics, this [troubleshooting](./media/teaching/stuck_on_a_problem_applied.pdf) sheet may be helpful.
 
 ## Scientific Computing 
 
