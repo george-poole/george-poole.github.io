@@ -1,6 +1,6 @@
 # Miscellaneous
 
-## Blog
+## Articles
 🖊️⏳🔄
 
 ## Talks

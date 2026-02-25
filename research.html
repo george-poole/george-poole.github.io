@@ -60,8 +60,8 @@
     <script>DOCUMENTATION_OPTIONS.pagename = 'research';</script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Miscellaneous" href="miscellaneous.html" />
-    <link rel="prev" title="Teaching" href="teaching.html" />
+    <link rel="next" title="Teaching" href="teaching.html" />
+    <link rel="prev" title="Code" href="code.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -181,9 +181,8 @@
         </ul>
         <ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="code.html">Code</a></li>
-<li class="toctree-l1"><a class="reference internal" href="publications.html">Publications</a></li>
-<li class="toctree-l1"><a class="reference internal" href="teaching.html">Teaching</a></li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Research</a></li>
+<li class="toctree-l1"><a class="reference internal" href="teaching.html">Teaching</a></li>
 <li class="toctree-l1"><a class="reference internal" href="miscellaneous.html">Miscellaneous</a></li>
 </ul>
 
@@ -262,7 +261,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
 </div></div>
       
     </div>
@@ -278,6 +279,16 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#in-plain-english">In plain English</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#phd-thesis">PhD Thesis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#publications">Publications</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -289,7 +300,27 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="research">
 <h1>Research<a class="headerlink" href="#research" title="Link to this heading">#</a></h1>
-<p>The following pages serve as a brief introduction to my research and some of the problems in convection and pattern formation that I am either currently investivating or interested in studying more in the future. For any queries, comments or interest in collaboration do not hesitate to email <a class="reference external" href="mailto:grp39&#37;&#52;&#48;cam&#46;ac&#46;uk">grp39<span>&#64;</span>cam<span>&#46;</span>ac<span>&#46;</span>uk</a>.</p>
+<p>For any queries, comments or interest in collaboration do not hesitate to email <a class="reference external" href="mailto:grp39&#37;&#52;&#48;cam&#46;ac&#46;uk">grp39<span>&#64;</span>cam<span>&#46;</span>ac<span>&#46;</span>uk</a>.</p>
+<p>My primary research interests, in no particular order, are:</p>
+<ul class="simple">
+<li><p>Rayleigh-Bénard and Saffman-Taylor instabilities in geological flows</p></li>
+<li><p>applications of the finite element method to flow problems</p></li>
+<li><p>open source scientific software development</p></li>
+</ul>
+<section id="in-plain-english">
+<h2>In plain English<a class="headerlink" href="#in-plain-english" title="Link to this heading">#</a></h2>
+<p>My PhD research is motivated by a fascination with instabilities and pattern formation in fluid dynamics. An elementary example of such an instability is when a heavier fluid is placed above a lighter fluid, resulting in the fluids overturning and mixing together. In the language of fluid dynamics, this is the Rayleigh-Taylor instability. Many other classic instabilities involve a contrast in temperature, concentration of dissolved solute, or viscosity (how ‘thick and sticky’ or resistant to flow a fluid is) as opposed to a contrast in density. A system that develops instabilities is said be unstable, as opposed to stable, and can exhibit some very interesting and chaotic behaviour. Characterising this chaotic behaviour and finding the criteria separating stable from unstable systems is possible with the mathematics of stability theory and computational methods to solve equations that are not amenable to pen-and-paper solutions. Visualization supported by computational methods can also reveal the intricate and beautiful patterns developing in the system.</p>
+<p>One application in which various instabilities can occur is the geological sequestration of carbon dioxide, a process by which liquefied carbon dioxide is injected underground into deep rock formations as a means of mitigation greenhouse gas emissions. Though the liquid carbon dioxide is less dense than the water already present in the rock formation, it can also dissolve into the water which then becomes more dense and unstable. Also at play between the carbon dioxide, water and rock are chemical reactions and microscopic phenomena occurring in the pore spaces between the grains of rock, further adding to the complexity of the system.</p>
+</section>
+<section id="phd-thesis">
+<h2>PhD Thesis<a class="headerlink" href="#phd-thesis" title="Link to this heading">#</a></h2>
+<p>Coming soon!</p>
+<!--I wrote my PhD thesis using the brilliant [Quarto](https://quarto.org), from which both a neat browsable [website]() and [pdf]() have been created.-->
+</section>
+<section id="publications">
+<h2>Publications<a class="headerlink" href="#publications" title="Link to this heading">#</a></h2>
+<p>📝⏳🔄</p>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -323,20 +354,20 @@ document.write(`
                   
 <div class="prev-next-area">
     <a class="left-prev"
-       href="teaching.html"
+       href="code.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">Teaching</p>
+        <p class="prev-next-title">Code</p>
       </div>
     </a>
     <a class="right-next"
-       href="miscellaneous.html"
+       href="teaching.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Miscellaneous</p>
+        <p class="prev-next-title">Teaching</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
@@ -346,6 +377,23 @@ document.write(`
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#in-plain-english">In plain English</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#phd-thesis">PhD Thesis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#publications">Publications</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>

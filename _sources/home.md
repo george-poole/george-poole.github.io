@@ -12,10 +12,7 @@ The majority of my scientific computing experience is with Python and its associ
 
 Human languages that I speak are English (native) and French (fluent). 
 
-<!-- | ![alt](./media/me.jpeg) | ![alt](./media/me.jpeg) | ![alt](./media/me.jpeg) |
-|-|-|-| -->
-
-![alt](./media/fluids/flow.png)
+![DNS](./media/fluids/flow.png)
 
 
 ## CV
@@ -24,4 +21,5 @@ Human languages that I speak are English (native) and French (fluent).
 2020 – 2021: Scientific Software Development Internship\
 2016 – 2020: MSci Natural Sciences (Theoretical Physics), University of Cambridge
 
+A more complete CV is available [here](./media/cv/cv.pdf).
 

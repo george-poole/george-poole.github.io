@@ -13,7 +13,7 @@ I am passionate about writing robust yet intuitive, user-friendly and extensible
 
 ## CaRiBU
 
-*&nbsp;**C**onvection **a**nd **R**eaction **i**n a **B**ox **U**nderground&nbsp;*. A Fortran library, with Python bindings, for solving the porous convection equations in a rectangle. Currently a work in progress and not yet publicly available.
+*&nbsp;**C**onvection **a**nd **R**eaction **i**n a **B**ox **U**nderground&nbsp;*. A Fortran library, with Python bindings, for solving the porous convection equations in a rectangle. Currently under early development so not yet publicly available.
 
 
 [^1]: [Goble, C. *Better Software, Better Research*](https://www.software.ac.uk/publication/better-software-better-research)
