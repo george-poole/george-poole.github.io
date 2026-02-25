@@ -21,5 +21,5 @@ Human languages that I speak are English (native) and French (fluent).
 2020 – 2021: Scientific Software Development Internship\
 2016 – 2020: MSci Natural Sciences (Theoretical Physics), University of Cambridge
 
-A more complete CV is available [here](./media/cv/cv.pdf).
+A more complete CV is available [here](./media/cv/cv_george-poole.pdf).
 
