@@ -5,11 +5,11 @@ I am passionate about writing robust yet intuitive, user-friendly and extensible
 
 ## [LUCiFEx](https://george-poole.github.io/LUCiFEx/index.html)
 
-*&nbsp;**L**inearized **U**nderground **C**onvection **i**n **FE**niCS**x**&nbsp;*. The goal of LUCiFEx was to bring greater flexibility to solving time-dependent problems with the open-source finite element solver [FEniCS](https://fenicsproject.org). In particular, I wanted finite difference discretizations in time to not be hard-coded but abstracted out by the implementation of finite difference operators acting on time-dependent quantities.
+*&nbsp;**L**inearized **U**nderground **C**onvection **i**n **FE**niCS**x**&nbsp;*. The goal of LUCiFEx was to bring greater flexibility to solving time-dependent problems with the open-source finite element solver [FEniCS](https://fenicsproject.org). In particular, I wanted finite differences in time to not be hard-coded but abstracted out by the implementation of finite difference operators acting on time-dependent quantities. Another design goal was to permit as far as possible abstraction over the partial differential equation's domain, initial conditions, boundary conditions and constitutive relations in order to have extensible, modular and reusable code.
 
 ## [CRoCoDiL](https://george-poole.github.io/LUCiFEx/index.html)
 
-*&nbsp;**C**onvection-**R**eaction **o**f **C**arb**o**n **D**iodixe **i**n **L**UCiFEx&nbsp;*. This package implements the specific models investigated in my PhD thesis.
+*&nbsp;**C**onvection-**R**eaction **o**f **C**arb**o**n **D**iodixe **i**n **L**UCiFEx&nbsp;*. This package implements the direct numerical simulations and simplified analytical models investigated in my PhD thesis.
 
 ## CaRiBU
 
