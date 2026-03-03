@@ -1,7 +1,7 @@
 # Miscellaneous
 
 ## Articles
-🖊️⏳🔄
+📝⏳🔄
 
 ## Talks
 🗣️⏳🔄
