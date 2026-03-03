@@ -21,4 +21,4 @@ Coming soon!
 
 ## Publications
 
-📝⏳🔄
+📄⏳🔄
