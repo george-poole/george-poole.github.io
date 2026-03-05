@@ -3,8 +3,9 @@
 For any queries, comments or interest in collaboration do not hesitate to email grp39@cam.ac.uk.
 
 My primary research interests, in no particular order, are:
+
 + Rayleigh-Bénard and Saffman-Taylor instabilities in geological flows
-+ applications of the finite element method to flow problems
++ applications of the finite element method to fluid dynamics
 + open source scientific software development
 
 ## In plain English
