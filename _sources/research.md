@@ -6,7 +6,7 @@ My primary research interests, in no particular order, are:
 
 + Rayleigh-Bénard and Saffman-Taylor instabilities in geological flows
 + applications of the finite element method to fluid dynamics
-+ open source scientific software development
++ open-source scientific software development
 
 ## In plain English
 
