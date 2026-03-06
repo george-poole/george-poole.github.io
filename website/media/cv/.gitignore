@@ -1,1 +1,7 @@
 _private
+*.aux
+*.fls
+*.out
+*.gz
+*.log
+*.fdb_latexmk
