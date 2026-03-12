@@ -10,7 +10,7 @@ Broadly speaking my interests are at the intersection of applied mathematics, sc
 
 As part of my work studying convection in porous media, I have developed the Python packages [LUCiFEx](https://github.com/george-poole/LUCiFEx) (*&nbsp;**L**inearized **C**onvection **i**n **FE**niCS**x**&nbsp;*) which extends the open-source [FEniCS](https://fenicsproject.org) finite element method code to formulate time-dependent PDEs by means of finite differences in time, and [CRoCoDiL](https://github.com/george-poole/CRoCoDiL) (*&nbsp;**C**onvection-**R**eaction **o**f **C**arb**o**n **D**iodixe **i**n **L**UCiFEx&nbsp;*) to run direct numerical simulations of porous convection within a flexible, unified framework.
 
-The majority of my scientific computing experience is with Python and its ecosystem of numerical packages, but I am also experienced with Fortran, and to a lesser extent C, for raw numerical performance. Other programming languages that I enjoy reading about and dabbling in include: Rust, Haskell, OCaml, Typescript and Julia. When not pretending to be practical in applied mathematics, I like dipping into functional programming, type theory and category theory.
+The majority of my scientific computing experience is with Python and its ecosystem of numerical packages, but I am also experienced with Fortran, and to a lesser extent C, for raw numerical performance. Other programming languages that I enjoy reading about and dabbling in include: Rust, Haskell, OCaml, TypeScript and Julia. When not pretending to be practical in applied mathematics, I like dipping into functional programming, type theory and category theory.
 
 Human languages that I speak are English (native) and French (fluent). 
 
