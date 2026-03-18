@@ -6,5 +6,6 @@
 ## Talks
 🗣️⏳🔄
 
-## Projects
-🔧⏳🔄
+
+<!-- ## Side Projects
+🔧⏳🔄 -->
