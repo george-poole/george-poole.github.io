@@ -1,6 +1,6 @@
 # Research
 
-For any queries, comments or interest in collaboration do not hesitate to email grp39@cam.ac.uk.
+For any queries, comments or interest in collaboration do not hesitate to email grp39@cantab.ac.uk.
 
 My primary research interests, in no particular order, are:
 
