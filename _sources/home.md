@@ -1,6 +1,6 @@
 # George Poole
 
-grp39@cam.ac.uk 
+grp39@cantab.ac.uk
 
 ***Currently seeking postdoctoral employment in quantitative research and/or software development.***
 
