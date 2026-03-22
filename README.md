@@ -1,1 +1,1 @@
-Personal webpage built using [Jupyter Book](https://jupyterbook.org/en/stable/intro.html)
+Personal website built using [Jupyter Book](https://jupyterbook.org/en/stable/intro.html)
