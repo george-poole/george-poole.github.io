@@ -12,7 +12,7 @@ I am passionate about writing robust yet intuitive, user-friendly and extensible
 
 ## CaRiBU
 
-*&nbsp;**C**onvection **a**nd **R**eaction **i**n a **B**ox **U**nderground&nbsp;*. A Fortran library, with Python bindings, for solving the porous convection equations in a rectangle. Currently under early development so not yet publicly available.
+*&nbsp;**C**onvection **a**nd **R**eaction **i**n a **B**ox **U**nderground&nbsp;*. A high-performance backend, implemented in both Fortran and [JAX](https://github.com/jax-ml/jax), complemented by a user-friendly Python API for simulating high Rayleigh number porous convection in a 2D rectangle or 3D box. Currently under early development so not yet publicly available.
 
 
 [^1]: [Goble, C. *Better Software, Better Research*](https://www.software.ac.uk/publication/better-software-better-research)

@@ -14,6 +14,6 @@ I am either currently or have previously supervised the following courses in the
 
 ## Scientific Computing 
 
-One could be forgiven for graduating from the intensely examination-focussed Mathematical or Natural Sciences Tripos and not appreciating that scientific computing skills are much more valuable to real research than rote-learning derivations and solving rehearsed or artificial problems. To address this shortfall from the undergraduate curriculum I actively curate various resources and examples of my own into [The Missing Tripos](https://github.com/george-poole/TheMissingTripos) [^1] - note that this is a continuously evolving work in progress!
+One could be forgiven for graduating from the intensely examination-focussed Mathematical or Natural Sciences Tripos and not appreciating that scientific computing skills are much more valuable to actual research than rote-learning derivations and solving rehearsed or artificial problems. To address this shortfall from the undergraduate curriculum I actively curate various resources and examples of my own into [The Missing Tripos](https://github.com/george-poole/TheMissingTripos) [^1] - note that this is a continuously evolving work in progress!
 
 [^1]: Inspired by MIT's [Missing Semester](https://missing.csail.mit.edu).
