@@ -16,7 +16,7 @@ One application in which various instabilities can occur is the geological seque
 
 ## PhD Thesis
 
-Coming soon! Under construction with the brilliant [Quarto](https://quarto.org) to provide both browsable HTML pages and a compiled pdf.
+Coming soon! Under construction with the brilliant [Quarto](https://quarto.org) to provide both browsable HTML pages and a compiled PDF.
 
 ## Publications
 
